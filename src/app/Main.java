@@ -15,6 +15,8 @@ public class Main {
         System.out.println(d);
         int z = subtraction(a,b);
         System.out.println(z);
+        int x = division(a,b);
+        System.out.println(x);
     }
 
     private static int add(int a, int b) {
