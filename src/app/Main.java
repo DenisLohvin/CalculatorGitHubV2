@@ -13,6 +13,8 @@ public class Main {
         System.out.println(c);
         int d = multiply(a, b);
         System.out.println(d);
+        int z = subtraction(a,b);
+        System.out.println(z);
     }
 
     private static int add(int a, int b) {
